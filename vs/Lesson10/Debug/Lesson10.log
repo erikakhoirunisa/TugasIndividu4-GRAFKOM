@@ -1,0 +1,3 @@
+﻿D:\Visual Studio\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Lesson02.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Demo.cpp
+  Lesson10.vcxproj -> D:\KULIAH\SEMESTER 5\Grafkom\VS\TugasIndividu04\vs\Debug\Lesson10.exe
